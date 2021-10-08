@@ -18,11 +18,11 @@ const SecondaryPage = () => {
             <div className={styles.wrapperButton}>
                 <div className={styles.topButtons}>
                     <Button name={'СТРАНИЦА 1'} icon={svgIcon} urlButton={'/page'} />
-                    <Button name={'ПРОЦЕДУРА 2'} icon={svgIcon} urlButton={'/'} />
-                    <Button name={'ПРОЦЕДУРА 3'} icon={svgIcon} urlButton={'/'} />
+                    <Button name={'ПРОЦЕДУРА 2'} icon={svgIcon} urlButton={'/belpost'} />
+                    <Button name={'ПРОЦЕДУРА 3'} icon={svgIcon} urlButton={'/belpost'} />
                 </div>
                 <div className={styles.bottomButtons}>
-                    <Button name={'ПРОЦЕДУРА 4'} icon={svgIcon} urlButton={'/'} />
+                    <Button name={'ПРОЦЕДУРА 4'} icon={svgIcon} urlButton={'/belpost'} />
                 </div>
             </div>
         </div>

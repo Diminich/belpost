@@ -7,7 +7,7 @@ import HomePage from '../components/homePage/HomePage';
 const Routes = () => {
   return (
     <Switch>
-      <Route exact path='/' render={() => <HomePage />} />
+      <Route exact path='/belpost' render={() => <HomePage />} />
       <Route exact path='/AdministrativeProcedures' render={() => <AdministrativeProcedures />} />
       <Route exact path='/Page' render={() => <Page />} />
       <Route path={'/404'} render={() => <div className={styles.notFound}>404 NOT FOUND</div>} />

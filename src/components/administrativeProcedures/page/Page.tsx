@@ -10,7 +10,7 @@ const Page = () => {
     }
 
     const clickHomePage = () => {
-        history.push('/')
+        history.push('/belpost')
     }
     return (
         <div className={styles.wrapperPage}>

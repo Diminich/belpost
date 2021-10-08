@@ -10,11 +10,11 @@ const HomePage = () => {
     <div className={styles.wrapperButtons}>
       <div className={styles.topButtons}>
         <Button name={'АДМИНИСТРАТИВНЫЕ ПРОЦЕДУРЫ'} icon={svgAdminIcon} urlButton={'/AdministrativeProcedures'} />
-        <Button name={'РУКОВОДСТВО'} icon={svgRucovodstvoIcon} urlButton={'/'} />
-        <Button name={'ГРАФИК ПРИЕМА'} icon={svgPriemIcon} urlButton={'/'} />
+        <Button name={'РУКОВОДСТВО'} icon={svgRucovodstvoIcon} urlButton={'/belpost'} />
+        <Button name={'ГРАФИК ПРИЕМА'} icon={svgPriemIcon} urlButton={'/belpost'} />
       </div>
       <div className={styles.bottomButtons}>
-      <Button name={'СТРУКТУРА'} icon={svgStructureIcon} urlButton={'/'} />
+      <Button name={'СТРУКТУРА'} icon={svgStructureIcon} urlButton={'/belpost'} />
       </div >
     </div>
   );
