@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/belpost/static/css/main.51a4170f.chunk.css",
+    "main.js": "/belpost/static/js/main.de0bf3cb.chunk.js",
+    "main.js.map": "/belpost/static/js/main.de0bf3cb.chunk.js.map",
+    "runtime-main.js": "/belpost/static/js/runtime-main.3c0cef66.js",
+    "runtime-main.js.map": "/belpost/static/js/runtime-main.3c0cef66.js.map",
+    "static/js/2.d59e593d.chunk.js": "/belpost/static/js/2.d59e593d.chunk.js",
+    "static/js/2.d59e593d.chunk.js.map": "/belpost/static/js/2.d59e593d.chunk.js.map",
+    "static/js/3.90ec9a9f.chunk.js": "/belpost/static/js/3.90ec9a9f.chunk.js",
+    "static/js/3.90ec9a9f.chunk.js.map": "/belpost/static/js/3.90ec9a9f.chunk.js.map",
+    "index.html": "/belpost/index.html",
+    "static/css/main.51a4170f.chunk.css.map": "/belpost/static/css/main.51a4170f.chunk.css.map",
+    "static/js/2.d59e593d.chunk.js.LICENSE.txt": "/belpost/static/js/2.d59e593d.chunk.js.LICENSE.txt",
+    "static/media/1200px-Weather-more-clouds 1.ff394b9f.svg": "/belpost/static/media/1200px-Weather-more-clouds 1.ff394b9f.svg",
+    "static/media/Home.978f9270.svg": "/belpost/static/media/Home.978f9270.svg",
+    "static/media/Logo TehnoSky_w 2.3af907b0.svg": "/belpost/static/media/Logo TehnoSky_w 2.3af907b0.svg",
+    "static/media/Structure.608d4976.svg": "/belpost/static/media/Structure.608d4976.svg",
+    "static/media/Vector.cd0f0e55.svg": "/belpost/static/media/Vector.cd0f0e55.svg",
+    "static/media/_logo.74929898.svg": "/belpost/static/media/_logo.74929898.svg",
+    "static/media/down.2e5498e2.svg": "/belpost/static/media/down.2e5498e2.svg",
+    "static/media/page.module.scss": "/belpost/static/media/fon2page.5a5c3d15.jpg",
+    "static/media/images 1.47b2c6e9.jpg": "/belpost/static/media/images 1.47b2c6e9.jpg",
+    "static/media/images 2.f09991ad.jpg": "/belpost/static/media/images 2.f09991ad.jpg",
+    "static/media/png-clipart-computer-icons-shopping-list-others-angle-text 1 (Traced).c01769ae.svg": "/belpost/static/media/png-clipart-computer-icons-shopping-list-others-angle-text 1 (Traced).c01769ae.svg",
+    "static/media/receptionSchedule.5064713e.svg": "/belpost/static/media/receptionSchedule.5064713e.svg",
+    "static/media/secondaryPageIcon.bddc8e01.svg": "/belpost/static/media/secondaryPageIcon.bddc8e01.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c0cef66.js",
+    "static/js/2.d59e593d.chunk.js",
+    "static/css/main.51a4170f.chunk.css",
+    "static/js/main.de0bf3cb.chunk.js"
+  ]
+}
