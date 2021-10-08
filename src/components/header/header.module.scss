@@ -1,0 +1,29 @@
+.wrapperHeader {
+  height: 50px;
+  width: 100%;
+  background-color: #009de9;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .wrapperHoursTemperature {
+    height: 100%;
+    width: 12%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 22px;
+    color: white;
+    padding-left: 30px;
+    
+    .headerSvgIcon {
+        width: 35%;
+    }
+  }
+
+  .wrapperData {
+    font-size: 22px;
+    color: white;
+    padding-right: 30px;
+  }
+}

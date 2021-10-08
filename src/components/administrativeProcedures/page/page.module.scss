@@ -1,0 +1,39 @@
+.wrapperPage {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+  background-image: url("./../../../svg/fon2page.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+
+  .headerPage {
+    height: 10%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 22px;
+    font-weight: 500;
+
+    .headerSvgIconHome {
+      height: 85%;
+      width: 5%;
+      cursor: pointer;
+    }
+
+    .headerSvgIconBack {
+        @extend .headerSvgIconHome;
+        height: 85%;
+    }
+  }
+
+  .text {
+    height: 100%;
+    width: 80%;
+  }
+}

@@ -1,0 +1,31 @@
+.slider {
+  height: 25%;
+  width: 100%;
+  position: relative;
+
+    .sliderItem {
+      height: 100%;
+      width: 100%;
+    }
+
+  .buttonPrev {
+    height: 16%;
+    width: 2%;
+    position: absolute;
+    top: 40%;
+    left: 1%;
+    border-radius: 40px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.35);
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    transition: 0.6s ease;
+  }
+
+  .buttonNext {
+      @extend .buttonPrev;
+      left: 97%;
+  }
+}

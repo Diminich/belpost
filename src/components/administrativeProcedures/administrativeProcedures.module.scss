@@ -1,0 +1,51 @@
+.wrapperSecondaryPage {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+  background-image: url("./../../svg/fon2page.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+
+  .headerSecondaryPage {
+    height: 10%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 22px;
+    font-weight: 500;
+
+    .headerSvgIcon {
+      height: 65%;
+      width: 5%;
+      margin-left: 400px;
+      cursor: pointer;
+    }
+  }
+
+  .wrapperButton {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+    .topButtons {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+  }
+
+  .bottomButtons {
+      @extend .topButtons;
+  }
+  }
+}

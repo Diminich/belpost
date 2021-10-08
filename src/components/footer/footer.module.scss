@@ -1,0 +1,52 @@
+.wrapperFooter {
+  height: 100px;
+  width: 100%;
+  background-color: #009de9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  .wrapperFooterTopText {
+    height: 48%;
+    width: 73%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 16px;
+    color: white;
+    padding-top: 20px;
+
+    .svgLogoBelpost {
+      height: 80%;
+    }
+
+    .footerLeftText {
+      height: 100%;
+      width: 35%;
+      text-align: end;
+      color: white;
+    }
+
+    .footerRightText {
+      @extend .footerLeftText;
+      width: 30%;
+      text-align: start;
+    }
+  }
+
+  .wrapperFooterBottomText {
+    height: 25%;
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 16px;
+    color: white;
+
+    .footerBottomText {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+}
