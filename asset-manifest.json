@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/belpost/static/css/main.51a4170f.chunk.css",
-    "main.js": "/belpost/static/js/main.de0bf3cb.chunk.js",
-    "main.js.map": "/belpost/static/js/main.de0bf3cb.chunk.js.map",
+    "main.js": "/belpost/static/js/main.a91cb0b0.chunk.js",
+    "main.js.map": "/belpost/static/js/main.a91cb0b0.chunk.js.map",
     "runtime-main.js": "/belpost/static/js/runtime-main.3c0cef66.js",
     "runtime-main.js.map": "/belpost/static/js/runtime-main.3c0cef66.js.map",
     "static/js/2.d59e593d.chunk.js": "/belpost/static/js/2.d59e593d.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.3c0cef66.js",
     "static/js/2.d59e593d.chunk.js",
     "static/css/main.51a4170f.chunk.css",
-    "static/js/main.de0bf3cb.chunk.js"
+    "static/js/main.a91cb0b0.chunk.js"
   ]
 }
