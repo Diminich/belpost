@@ -1,12 +1,12 @@
-.slider {
+.wrapperSlider {
   height: 25%;
   width: 100%;
   position: relative;
 
-    .sliderItem {
-      height: 100%;
-      width: 100%;
-    }
+  .sliderItem {
+    height: 180px;
+    width: 100%;
+  }
 
   .buttonPrev {
     height: 16%;
@@ -25,7 +25,7 @@
   }
 
   .buttonNext {
-      @extend .buttonPrev;
-      left: 97%;
+    @extend .buttonPrev;
+    left: 97%;
   }
 }

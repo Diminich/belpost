@@ -1,0 +1,38 @@
+.buttons {
+    height: 60%;
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    .wrapperButtons {
+      height: 70%;
+      width: 25%;
+      background-color: white;
+      box-shadow: 2px 11px 16px rgba(100, 105, 108, 0.24);
+      border-radius: 45px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 10px;
+    
+      .nameButtons {
+        height: 50%;
+        width: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        text-align: end;
+        font-size: 22px;
+        font-weight: 500;
+      }
+    
+      .iconButtons {
+          @extend .nameButtons;
+          height: 35%;
+          justify-content: flex-start;
+      }
+    }
+  }
